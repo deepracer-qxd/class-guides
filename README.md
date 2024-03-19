@@ -6,5 +6,3 @@ In this repo, we will post the materials of the classes
 [Notebooks divided by class at `/classes` folder](./classes)
 
 <img src="./assets/OIG2.jpg" class="border-radius" alt="A chicken with the AWS DeepRacer name" width="200">  
-
-,
