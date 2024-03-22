@@ -3,6 +3,6 @@
 # DeepRacer guides
 In this repo, we will post the materials of the classes
 
-[Notebooks divided by class at `/classes` folder](./classes)
+[Notebooks divided by class at `/notebooks` folder](./notebooks)
 
 <img src="./assets/OIG2.jpg" class="border-radius" alt="A chicken with the AWS DeepRacer name" width="200">  
